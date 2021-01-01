@@ -1,0 +1,27 @@
+h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
+h2,p{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+P{
+    font-size: xx-large;
+    background-color: black;
+}
+a{
+    align-content: center;
+}
+select{
+
+    color: white;
+    background-color: black;
+}
+a{
+    background: black;
+    background-color: black;
+}
